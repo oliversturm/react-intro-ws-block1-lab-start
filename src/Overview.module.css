@@ -1,0 +1,9 @@
+.error {
+  font-weight: bold;
+  color: red;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
